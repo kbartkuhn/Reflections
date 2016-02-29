@@ -1,0 +1,8 @@
+Today we learned how to use the basic command terminal. There are very many different types of the command window but we used Git Bash. 
+We learned how to pull and push documents within a group, which was pretty cool. We used the website github to share and download each
+others repository. We learned a lot today and I'm actually suprised I understand it.
+
+There were some guys who were really good at it and you could tell they were the very studious who did the Prework, which I wish 
+I would have had more of a chance to get into but last week I worked about 65 hours so I didn't really have time.  I will delve into
+the pre work more and more tonight since now I no longer hzve a job to worry about, which is strangely freeing in a way. I don't have 
+to worry about shifts, or getting there on time, all i focus is on this and my future which is pretty exciting. 
