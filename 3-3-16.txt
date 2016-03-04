@@ -1,0 +1,9 @@
+3/3/16
+Today we got introduced to Java. I thought it was pretty cool to be actually writing functional code, not that HTML
+is functional but I guess I just don't have a better way to phrase it. I really didn't know where to start at first 
+but once I got my starting point things started to fall into place and then I had the wage calculator going. The 
+overtime calculator tripped me up for a little but that helped me get a handle on if and else statements which
+really helped with my story. When writing my story I had a lot of trouble with scanners. I didn't really start my story
+until near the end of the day and by that point I was fairly exhausted and was just not getting it.
+I got home and got the structure of my story down but it wasn't working because I didnt have the scanners working but it was 
+good to at least have the layout done. 
