@@ -1,0 +1,7 @@
+3-4-16
+Today was a good day. I came in today frusturated about scanners. I asked my neighbor who has a very good handle on java for a 
+little clarification and he explained it and then I finally started to understand.  After that I got really excited and actually
+finished my story. I put the scanners in the right place and it all started falling together.  Then we had a lecture on functions 
+and I got the basic idea and did the assignment which was pretty simple since all the functions in my story are void functions so all 
+they do is print lines. Since I have a good handle on the basic idea functions Im going to try and add players and loops to my story so
+it just doesn't end after certain parts and I think the functions I have now will help with the loops but Ill have to wait and see. 
