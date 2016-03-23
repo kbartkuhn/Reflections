@@ -1,0 +1,10 @@
+3/23
+
+I was really happy with the progress I made today. I worked through the rest of the problem set and got it all done and got some ideas 
+for the lemonade game.  I think the lemonade game is gonna be challenging because the game we made before really didn't do much so 
+that wasn't as much of a learning experience as it should have been so I didnt think I got as much out of it as a lot of other people did.
+Im going to break it down and try to do everything step by step and break it down to the simplest step so I can identify the problems and 
+tackle em one at a time instead of staring into the giant abyss of the game.  I'm happy this game has some parameters and requirements. So 
+i have an idea where to start unlike the robot where i was completely lost and had no idea what to do so i just stared at the screen for 
+two days and just did some random stuff and called it a day. Overall I'm happy with the progress and for the first time think im in a good place
+where ill actually be able to work through the lemonade game and actually be able to do it.
